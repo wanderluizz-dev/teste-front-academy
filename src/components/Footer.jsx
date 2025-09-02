@@ -18,7 +18,7 @@ function Footer() {
             </p>
           </div>
   
-          <div class="md:col-span-1 col-span-3 justify-items-center">
+          <div class="md:col-span-1 col-span-3 justify-items-end-safe">
               <img
                   src={logoSapientia}
                   alt="Logo Sapientia"
