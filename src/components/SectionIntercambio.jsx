@@ -41,7 +41,7 @@ function SectionIntercambio() {
             <img
                 src={lupaImg}
                 alt="Lupa"
-                className="h-full"
+                className="w-full"
             />
           </div>
         </div>
