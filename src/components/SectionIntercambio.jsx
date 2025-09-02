@@ -37,7 +37,7 @@ function SectionIntercambio() {
   
           </div>
   
-          <div class="col-span-2 row-span-6 pb-12 md:mr-12">
+          <div class="md:col-span-2 md:row-span-6 pb-12 md:mr-12">
             <img
                 src={lupaImg}
                 alt="Lupa"

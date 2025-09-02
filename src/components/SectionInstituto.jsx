@@ -7,7 +7,7 @@ function SectionInstituto() {
         <div class="md:py-22 py-32 md:grid md:grid-flow-col md:grid-cols-4 md:grid-rows-2 sm:grid-cols-1 sm:grid-rows-1">
   
           <div class="col-span-2 row-span-1">
-            <h1 className="font-work-sans font-extrabold text-white text-6xl md:text-left text-center">
+            <h1 className="font-work-sans font-extrabold text-white md:text-6xl text-5xl md:text-left text-center">
                 Iniciativa do Instituto Vertere
             </h1>
           </div>
